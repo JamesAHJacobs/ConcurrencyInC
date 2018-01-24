@@ -1,0 +1,272 @@
+Producing: JOB Id = 0, Burst Time = 29, Remaining Time = 29, Priority = 6 (Jobs Produced = 1, Jobs in buffer = 1)
+Producing: JOB Id = 1, Burst Time = 73, Remaining Time = 73, Priority = 5 (Jobs Produced = 2, Jobs in buffer = 2)
+Producing: JOB Id = 2, Burst Time = 24, Remaining Time = 24, Priority = 5 (Jobs Produced = 3, Jobs in buffer = 3)
+Producing: JOB Id = 3, Burst Time = 56, Remaining Time = 56, Priority = 2 (Jobs Produced = 4, Jobs in buffer = 4)
+Producing: JOB Id = 4, Burst Time = 70, Remaining Time = 70, Priority = 1 (Jobs Produced = 5, Jobs in buffer = 5)
+Producing: JOB Id = 5, Burst Time = 42, Remaining Time = 42, Priority = 7 (Jobs Produced = 6, Jobs in buffer = 6)
+Producing: JOB Id = 6, Burst Time = 6, Remaining Time = 6, Priority = 9 (Jobs Produced = 7, Jobs in buffer = 7)
+Producing: JOB Id = 7, Burst Time = 96, Remaining Time = 96, Priority = 6 (Jobs Produced = 8, Jobs in buffer = 8)
+Producing: JOB Id = 8, Burst Time = 43, Remaining Time = 43, Priority = 6 (Jobs Produced = 9, Jobs in buffer = 9)
+Producing: JOB Id = 9, Burst Time = 80, Remaining Time = 80, Priority = 6 (Jobs Produced = 10, Jobs in buffer = 10)
+Thread 0 removes: JOB ID: 4, Start time = 0, End time = 70, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 3, Start time = 70, End time = 126, Priority = 2, Remaining Time = 0
+Thread 0 removes: JOB ID: 1, Start time = 126, End time = 151, Priority = 5, Remaining Time = 48
+Thread 0 removes: JOB ID: 2, Start time = 151, End time = 175, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 0, Start time = 175, End time = 200, Priority = 6, Remaining Time = 4
+Thread 0 removes: JOB ID: 7, Start time = 200, End time = 225, Priority = 6, Remaining Time = 71
+Thread 0 removes: JOB ID: 8, Start time = 225, End time = 250, Priority = 6, Remaining Time = 18
+Thread 0 removes: JOB ID: 9, Start time = 250, End time = 275, Priority = 6, Remaining Time = 55
+Thread 0 removes: JOB ID: 0, restart time = 275, End time = 279, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 7, restart time = 279, End time = 304, Priority = 6, Remaining Time = 46
+Thread 0 removes: JOB ID: 8, restart time = 304, End time = 322, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 9, restart time = 322, End time = 347, Priority = 6, Remaining Time = 30
+Thread 0 removes: JOB ID: 7, restart time = 347, End time = 372, Priority = 6, Remaining Time = 21
+Thread 0 removes: JOB ID: 9, restart time = 372, End time = 397, Priority = 6, Remaining Time = 5
+Thread 0 removes: JOB ID: 7, restart time = 397, End time = 418, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 9, restart time = 418, End time = 423, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 5, Start time = 423, End time = 465, Priority = 7, Remaining Time = 0
+Thread 0 removes: JOB ID: 6, Start time = 465, End time = 471, Priority = 9, Remaining Time = 0
+Thread 0 removes: JOB ID: 0, Start time = 471, End time = 350, Priority = -38, Remaining Time = 0
+Producing: JOB Id = 10, Burst Time = 99, Remaining Time = 99, Priority = 8 (Jobs Produced = 11, Jobs in buffer = 2)
+Producing: JOB Id = 11, Burst Time = 61, Remaining Time = 61, Priority = 9 (Jobs Produced = 12, Jobs in buffer = 3)
+Producing: JOB Id = 12, Burst Time = 27, Remaining Time = 27, Priority = 0 (Jobs Produced = 13, Jobs in buffer = 4)
+Producing: JOB Id = 13, Burst Time = 45, Remaining Time = 45, Priority = 3 (Jobs Produced = 14, Jobs in buffer = 5)
+Producing: JOB Id = 14, Burst Time = 92, Remaining Time = 92, Priority = 5 (Jobs Produced = 15, Jobs in buffer = 6)
+Producing: JOB Id = 15, Burst Time = 33, Remaining Time = 33, Priority = 2 (Jobs Produced = 16, Jobs in buffer = 7)
+Thread 0 removes: JOB ID: 12, Start time = 0, End time = 25, Priority = 0, Remaining Time = 2
+Thread 0 removes: JOB ID: 12, restart time = 25, End time = 27, Priority = 0, Remaining Time = 0
+Thread 0 removes: JOB ID: 15, Start time = 27, End time = 60, Priority = 2, Remaining Time = 0
+Thread 0 removes: JOB ID: 13, Start time = 60, End time = 105, Priority = 3, Remaining Time = 0
+Thread 0 removes: JOB ID: 14, Start time = 105, End time = 197, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 10, Start time = 197, End time = 296, Priority = 8, Remaining Time = 0
+Thread 0 removes: JOB ID: 11, Start time = 296, End time = 357, Priority = 9, Remaining Time = 0
+Producing: JOB Id = 16, Burst Time = 55, Remaining Time = 55, Priority = 8 (Jobs Produced = 17, Jobs in buffer = 1)
+Producing: JOB Id = 17, Burst Time = 96, Remaining Time = 96, Priority = 7 (Jobs Produced = 18, Jobs in buffer = 2)
+Producing: JOB Id = 18, Burst Time = 74, Remaining Time = 74, Priority = 6 (Jobs Produced = 19, Jobs in buffer = 3)
+Producing: JOB Id = 19, Burst Time = 14, Remaining Time = 14, Priority = 2 (Jobs Produced = 20, Jobs in buffer = 4)
+Producing: JOB Id = 20, Burst Time = 52, Remaining Time = 52, Priority = 3 (Jobs Produced = 21, Jobs in buffer = 5)
+Producing: JOB Id = 21, Burst Time = 82, Remaining Time = 82, Priority = 9 (Jobs Produced = 22, Jobs in buffer = 6)
+Producing: JOB Id = 22, Burst Time = 78, Remaining Time = 78, Priority = 7 (Jobs Produced = 23, Jobs in buffer = 7)
+Producing: JOB Id = 23, Burst Time = 60, Remaining Time = 60, Priority = 4 (Jobs Produced = 24, Jobs in buffer = 8)
+Producing: JOB Id = 24, Burst Time = 30, Remaining Time = 30, Priority = 0 (Jobs Produced = 25, Jobs in buffer = 9)
+Producing: JOB Id = 25, Burst Time = 75, Remaining Time = 75, Priority = 6 (Jobs Produced = 26, Jobs in buffer = 10)
+Thread 0 removes: JOB ID: 24, Start time = 0, End time = 25, Priority = 0, Remaining Time = 5
+Thread 0 removes: JOB ID: 24, restart time = 25, End time = 30, Priority = 0, Remaining Time = 0
+Thread 0 removes: JOB ID: 19, Start time = 30, End time = 44, Priority = 2, Remaining Time = 0
+Thread 0 removes: JOB ID: 20, Start time = 44, End time = 96, Priority = 3, Remaining Time = 0
+Thread 0 removes: JOB ID: 23, Start time = 96, End time = 156, Priority = 4, Remaining Time = 0
+Thread 0 removes: JOB ID: 18, Start time = 156, End time = 181, Priority = 6, Remaining Time = 49
+Thread 0 removes: JOB ID: 25, Start time = 181, End time = 206, Priority = 6, Remaining Time = 50
+Thread 0 removes: JOB ID: 18, restart time = 206, End time = 231, Priority = 6, Remaining Time = 24
+Thread 0 removes: JOB ID: 25, restart time = 231, End time = 256, Priority = 6, Remaining Time = 25
+Thread 0 removes: JOB ID: 18, restart time = 256, End time = 280, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 25, restart time = 280, End time = 305, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 22, Start time = 305, End time = 330, Priority = 7, Remaining Time = 53
+Thread 0 removes: JOB ID: 17, Start time = 330, End time = 355, Priority = 7, Remaining Time = 71
+Thread 0 removes: JOB ID: 22, restart time = 355, End time = 380, Priority = 7, Remaining Time = 28
+Thread 0 removes: JOB ID: 17, restart time = 380, End time = 405, Priority = 7, Remaining Time = 46
+Thread 0 removes: JOB ID: 22, restart time = 405, End time = 430, Priority = 7, Remaining Time = 3
+Thread 0 removes: JOB ID: 17, restart time = 430, End time = 455, Priority = 7, Remaining Time = 21
+Thread 0 removes: JOB ID: 22, restart time = 455, End time = 458, Priority = 7, Remaining Time = 0
+Thread 0 removes: JOB ID: 17, restart time = 458, End time = 479, Priority = 7, Remaining Time = 0
+Thread 0 removes: JOB ID: 16, Start time = 479, End time = 534, Priority = 8, Remaining Time = 0
+Thread 0 removes: JOB ID: 21, Start time = 534, End time = 616, Priority = 9, Remaining Time = 0
+Producing: JOB Id = 26, Burst Time = 47, Remaining Time = 47, Priority = 0 (Jobs Produced = 27, Jobs in buffer = 5)
+Producing: JOB Id = 27, Burst Time = 63, Remaining Time = 63, Priority = 3 (Jobs Produced = 28, Jobs in buffer = 6)
+Producing: JOB Id = 28, Burst Time = 51, Remaining Time = 51, Priority = 0 (Jobs Produced = 29, Jobs in buffer = 7)
+Producing: JOB Id = 29, Burst Time = 50, Remaining Time = 50, Priority = 1 (Jobs Produced = 30, Jobs in buffer = 8)
+Producing: JOB Id = 30, Burst Time = 16, Remaining Time = 16, Priority = 5 (Jobs Produced = 31, Jobs in buffer = 9)
+Producing: JOB Id = 31, Burst Time = 60, Remaining Time = 60, Priority = 7 (Jobs Produced = 32, Jobs in buffer = 10)
+Thread 0 removes: JOB ID: 26, Start time = 0, End time = 25, Priority = 0, Remaining Time = 22
+Thread 0 removes: JOB ID: 28, Start time = 25, End time = 50, Priority = 0, Remaining Time = 26
+Thread 0 removes: JOB ID: 26, restart time = 50, End time = 72, Priority = 0, Remaining Time = 0
+Thread 0 removes: JOB ID: 28, restart time = 72, End time = 97, Priority = 0, Remaining Time = 1
+Thread 0 removes: JOB ID: 28, restart time = 97, End time = 98, Priority = 0, Remaining Time = 0
+Thread 0 removes: JOB ID: 29, Start time = 98, End time = 148, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 27, Start time = 148, End time = 211, Priority = 3, Remaining Time = 0
+Thread 0 removes: JOB ID: 30, Start time = 211, End time = 227, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 31, Start time = 227, End time = 287, Priority = 7, Remaining Time = 0
+Producing: JOB Id = 32, Burst Time = 84, Remaining Time = 84, Priority = 5 (Jobs Produced = 33, Jobs in buffer = 4)
+Producing: JOB Id = 33, Burst Time = 44, Remaining Time = 44, Priority = 9 (Jobs Produced = 34, Jobs in buffer = 5)
+Producing: JOB Id = 34, Burst Time = 5, Remaining Time = 5, Priority = 7 (Jobs Produced = 35, Jobs in buffer = 6)
+Producing: JOB Id = 35, Burst Time = 1, Remaining Time = 1, Priority = 5 (Jobs Produced = 36, Jobs in buffer = 7)
+Producing: JOB Id = 36, Burst Time = 10, Remaining Time = 10, Priority = 5 (Jobs Produced = 37, Jobs in buffer = 8)
+Producing: JOB Id = 37, Burst Time = 12, Remaining Time = 12, Priority = 7 (Jobs Produced = 38, Jobs in buffer = 9)
+Producing: JOB Id = 38, Burst Time = 57, Remaining Time = 57, Priority = 4 (Jobs Produced = 39, Jobs in buffer = 10)
+Thread 0 removes: JOB ID: 38, Start time = 0, End time = 57, Priority = 4, Remaining Time = 0
+Thread 0 removes: JOB ID: 35, Start time = 57, End time = 58, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 36, Start time = 58, End time = 68, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 32, Start time = 68, End time = 93, Priority = 5, Remaining Time = 59
+Thread 0 removes: JOB ID: 32, restart time = 93, End time = 118, Priority = 5, Remaining Time = 34
+Thread 0 removes: JOB ID: 32, restart time = 118, End time = 143, Priority = 5, Remaining Time = 9
+Thread 0 removes: JOB ID: 32, restart time = 143, End time = 152, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 37, Start time = 152, End time = 164, Priority = 7, Remaining Time = 0
+Thread 0 removes: JOB ID: 34, Start time = 164, End time = 169, Priority = 7, Remaining Time = 0
+Thread 0 removes: JOB ID: 33, Start time = 169, End time = 213, Priority = 9, Remaining Time = 0
+Producing: JOB Id = 39, Burst Time = 7, Remaining Time = 7, Priority = 0 (Jobs Produced = 40, Jobs in buffer = 4)
+Producing: JOB Id = 40, Burst Time = 8, Remaining Time = 8, Priority = 8 (Jobs Produced = 41, Jobs in buffer = 5)
+Producing: JOB Id = 41, Burst Time = 16, Remaining Time = 16, Priority = 8 (Jobs Produced = 42, Jobs in buffer = 6)
+Producing: JOB Id = 42, Burst Time = 15, Remaining Time = 15, Priority = 4 (Jobs Produced = 43, Jobs in buffer = 7)
+Producing: JOB Id = 43, Burst Time = 25, Remaining Time = 25, Priority = 1 (Jobs Produced = 44, Jobs in buffer = 8)
+Producing: JOB Id = 44, Burst Time = 81, Remaining Time = 81, Priority = 9 (Jobs Produced = 45, Jobs in buffer = 9)
+Producing: JOB Id = 45, Burst Time = 7, Remaining Time = 7, Priority = 0 (Jobs Produced = 46, Jobs in buffer = 10)
+Thread 0 removes: JOB ID: 39, Start time = 0, End time = 7, Priority = 0, Remaining Time = 0
+Thread 0 removes: JOB ID: 45, Start time = 7, End time = 14, Priority = 0, Remaining Time = 0
+Thread 0 removes: JOB ID: 43, Start time = 14, End time = 39, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 42, Start time = 39, End time = 54, Priority = 4, Remaining Time = 0
+Thread 0 removes: JOB ID: 41, Start time = 54, End time = 70, Priority = 8, Remaining Time = 0
+Thread 0 removes: JOB ID: 40, Start time = 70, End time = 78, Priority = 8, Remaining Time = 0
+Thread 0 removes: JOB ID: 44, Start time = 78, End time = 159, Priority = 9, Remaining Time = 0
+Producing: JOB Id = 46, Burst Time = 54, Remaining Time = 54, Priority = 8 (Jobs Produced = 47, Jobs in buffer = 5)
+Producing: JOB Id = 47, Burst Time = 65, Remaining Time = 65, Priority = 2 (Jobs Produced = 48, Jobs in buffer = 6)
+Producing: JOB Id = 48, Burst Time = 17, Remaining Time = 17, Priority = 6 (Jobs Produced = 49, Jobs in buffer = 7)
+Producing: JOB Id = 49, Burst Time = 94, Remaining Time = 94, Priority = 9 (Jobs Produced = 50, Jobs in buffer = 8)
+Producing: JOB Id = 50, Burst Time = 64, Remaining Time = 64, Priority = 0 (Jobs Produced = 51, Jobs in buffer = 9)
+Producing: JOB Id = 51, Burst Time = 75, Remaining Time = 75, Priority = 8 (Jobs Produced = 52, Jobs in buffer = 10)
+Thread 0 removes: JOB ID: 50, Start time = 0, End time = 25, Priority = 0, Remaining Time = 39
+Thread 0 removes: JOB ID: 50, restart time = 25, End time = 50, Priority = 0, Remaining Time = 14
+Thread 0 removes: JOB ID: 50, restart time = 50, End time = 64, Priority = 0, Remaining Time = 0
+Thread 0 removes: JOB ID: 47, Start time = 64, End time = 129, Priority = 2, Remaining Time = 0
+Thread 0 removes: JOB ID: 48, Start time = 129, End time = 146, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 46, Start time = 146, End time = 171, Priority = 8, Remaining Time = 29
+Thread 0 removes: JOB ID: 51, Start time = 171, End time = 196, Priority = 8, Remaining Time = 50
+Thread 0 removes: JOB ID: 46, restart time = 196, End time = 221, Priority = 8, Remaining Time = 4
+Thread 0 removes: JOB ID: 51, restart time = 221, End time = 246, Priority = 8, Remaining Time = 25
+Thread 0 removes: JOB ID: 46, restart time = 246, End time = 250, Priority = 8, Remaining Time = 0
+Thread 0 removes: JOB ID: 51, restart time = 250, End time = 275, Priority = 8, Remaining Time = 0
+Thread 0 removes: JOB ID: 49, Start time = 275, End time = 369, Priority = 9, Remaining Time = 0
+Producing: JOB Id = 52, Burst Time = 72, Remaining Time = 72, Priority = 1 (Jobs Produced = 53, Jobs in buffer = 4)
+Producing: JOB Id = 53, Burst Time = 60, Remaining Time = 60, Priority = 2 (Jobs Produced = 54, Jobs in buffer = 5)
+Producing: JOB Id = 54, Burst Time = 52, Remaining Time = 52, Priority = 2 (Jobs Produced = 55, Jobs in buffer = 6)
+Producing: JOB Id = 55, Burst Time = 17, Remaining Time = 17, Priority = 6 (Jobs Produced = 56, Jobs in buffer = 7)
+Producing: JOB Id = 56, Burst Time = 44, Remaining Time = 44, Priority = 0 (Jobs Produced = 57, Jobs in buffer = 8)
+Producing: JOB Id = 57, Burst Time = 9, Remaining Time = 9, Priority = 1 (Jobs Produced = 58, Jobs in buffer = 9)
+Producing: JOB Id = 58, Burst Time = 7, Remaining Time = 7, Priority = 9 (Jobs Produced = 59, Jobs in buffer = 10)
+Thread 0 removes: JOB ID: 56, Start time = 0, End time = 25, Priority = 0, Remaining Time = 19
+Thread 0 removes: JOB ID: 56, restart time = 25, End time = 44, Priority = 0, Remaining Time = 0
+Thread 0 removes: JOB ID: 52, Start time = 44, End time = 69, Priority = 1, Remaining Time = 47
+Thread 0 removes: JOB ID: 57, Start time = 69, End time = 78, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 53, Start time = 78, End time = 103, Priority = 2, Remaining Time = 35
+Thread 0 removes: JOB ID: 54, Start time = 103, End time = 128, Priority = 2, Remaining Time = 27
+Thread 0 removes: JOB ID: 53, restart time = 128, End time = 153, Priority = 2, Remaining Time = 10
+Thread 0 removes: JOB ID: 54, restart time = 153, End time = 178, Priority = 2, Remaining Time = 2
+Thread 0 removes: JOB ID: 53, restart time = 178, End time = 188, Priority = 2, Remaining Time = 0
+Thread 0 removes: JOB ID: 54, restart time = 188, End time = 190, Priority = 2, Remaining Time = 0
+Thread 0 removes: JOB ID: 55, Start time = 190, End time = 207, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 58, Start time = 207, End time = 214, Priority = 9, Remaining Time = 0
+Producing: JOB Id = 59, Burst Time = 20, Remaining Time = 20, Priority = 9 (Jobs Produced = 60, Jobs in buffer = 1)
+Producing: JOB Id = 60, Burst Time = 5, Remaining Time = 5, Priority = 9 (Jobs Produced = 61, Jobs in buffer = 2)
+Producing: JOB Id = 61, Burst Time = 82, Remaining Time = 82, Priority = 7 (Jobs Produced = 62, Jobs in buffer = 3)
+Producing: JOB Id = 62, Burst Time = 88, Remaining Time = 88, Priority = 1 (Jobs Produced = 63, Jobs in buffer = 4)
+Producing: JOB Id = 63, Burst Time = 94, Remaining Time = 94, Priority = 5 (Jobs Produced = 64, Jobs in buffer = 5)
+Producing: JOB Id = 64, Burst Time = 55, Remaining Time = 55, Priority = 7 (Jobs Produced = 65, Jobs in buffer = 6)
+Producing: JOB Id = 65, Burst Time = 22, Remaining Time = 22, Priority = 6 (Jobs Produced = 66, Jobs in buffer = 7)
+Producing: JOB Id = 66, Burst Time = 78, Remaining Time = 78, Priority = 3 (Jobs Produced = 67, Jobs in buffer = 8)
+Producing: JOB Id = 67, Burst Time = 88, Remaining Time = 88, Priority = 5 (Jobs Produced = 68, Jobs in buffer = 9)
+Producing: JOB Id = 68, Burst Time = 77, Remaining Time = 77, Priority = 3 (Jobs Produced = 69, Jobs in buffer = 10)
+Thread 0 removes: JOB ID: 62, Start time = 0, End time = 88, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 66, Start time = 88, End time = 113, Priority = 3, Remaining Time = 53
+Thread 0 removes: JOB ID: 68, Start time = 113, End time = 138, Priority = 3, Remaining Time = 52
+Thread 0 removes: JOB ID: 66, restart time = 138, End time = 163, Priority = 3, Remaining Time = 28
+Thread 0 removes: JOB ID: 68, restart time = 163, End time = 188, Priority = 3, Remaining Time = 27
+Thread 0 removes: JOB ID: 66, restart time = 188, End time = 213, Priority = 3, Remaining Time = 3
+Thread 0 removes: JOB ID: 68, restart time = 213, End time = 238, Priority = 3, Remaining Time = 2
+Thread 0 removes: JOB ID: 66, restart time = 238, End time = 241, Priority = 3, Remaining Time = 0
+Thread 0 removes: JOB ID: 68, restart time = 241, End time = 243, Priority = 3, Remaining Time = 0
+Thread 0 removes: JOB ID: 67, Start time = 243, End time = 268, Priority = 5, Remaining Time = 63
+Thread 0 removes: JOB ID: 63, Start time = 268, End time = 293, Priority = 5, Remaining Time = 69
+Thread 0 removes: JOB ID: 67, restart time = 293, End time = 318, Priority = 5, Remaining Time = 38
+Thread 0 removes: JOB ID: 63, restart time = 318, End time = 343, Priority = 5, Remaining Time = 44
+Thread 0 removes: JOB ID: 67, restart time = 343, End time = 368, Priority = 5, Remaining Time = 13
+Thread 0 removes: JOB ID: 63, restart time = 368, End time = 393, Priority = 5, Remaining Time = 19
+Thread 0 removes: JOB ID: 67, restart time = 393, End time = 406, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 63, restart time = 406, End time = 425, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 65, Start time = 425, End time = 447, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 61, Start time = 447, End time = 472, Priority = 7, Remaining Time = 57
+Thread 0 removes: JOB ID: 64, Start time = 472, End time = 497, Priority = 7, Remaining Time = 30
+Thread 0 removes: JOB ID: 61, restart time = 497, End time = 522, Priority = 7, Remaining Time = 32
+Thread 0 removes: JOB ID: 64, restart time = 522, End time = 547, Priority = 7, Remaining Time = 5
+Thread 0 removes: JOB ID: 61, restart time = 547, End time = 572, Priority = 7, Remaining Time = 7
+Thread 0 removes: JOB ID: 64, restart time = 572, End time = 577, Priority = 7, Remaining Time = 0
+Thread 0 removes: JOB ID: 59, Start time = 577, End time = 597, Priority = 9, Remaining Time = 0
+Thread 0 removes: JOB ID: 60, Start time = 597, End time = 602, Priority = 9, Remaining Time = 0
+Producing: JOB Id = 69, Burst Time = 78, Remaining Time = 78, Priority = 4 (Jobs Produced = 70, Jobs in buffer = 1)
+Producing: JOB Id = 70, Burst Time = 11, Remaining Time = 11, Priority = 1 (Jobs Produced = 71, Jobs in buffer = 2)
+Producing: JOB Id = 71, Burst Time = 84, Remaining Time = 84, Priority = 9 (Jobs Produced = 72, Jobs in buffer = 3)
+Producing: JOB Id = 72, Burst Time = 22, Remaining Time = 22, Priority = 9 (Jobs Produced = 73, Jobs in buffer = 4)
+Producing: JOB Id = 73, Burst Time = 10, Remaining Time = 10, Priority = 8 (Jobs Produced = 74, Jobs in buffer = 5)
+Producing: JOB Id = 74, Burst Time = 26, Remaining Time = 26, Priority = 5 (Jobs Produced = 75, Jobs in buffer = 6)
+Producing: JOB Id = 75, Burst Time = 14, Remaining Time = 14, Priority = 9 (Jobs Produced = 76, Jobs in buffer = 7)
+Producing: JOB Id = 76, Burst Time = 52, Remaining Time = 52, Priority = 3 (Jobs Produced = 77, Jobs in buffer = 8)
+Producing: JOB Id = 77, Burst Time = 87, Remaining Time = 87, Priority = 5 (Jobs Produced = 78, Jobs in buffer = 9)
+Producing: JOB Id = 78, Burst Time = 39, Remaining Time = 39, Priority = 1 (Jobs Produced = 79, Jobs in buffer = 10)
+Thread 0 removes: JOB ID: 70, Start time = 0, End time = 11, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 78, Start time = 11, End time = 36, Priority = 1, Remaining Time = 14
+Thread 0 removes: JOB ID: 78, restart time = 36, End time = 50, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 76, Start time = 50, End time = 102, Priority = 3, Remaining Time = 0
+Thread 0 removes: JOB ID: 69, Start time = 102, End time = 180, Priority = 4, Remaining Time = 0
+Thread 0 removes: JOB ID: 77, Start time = 180, End time = 205, Priority = 5, Remaining Time = 62
+Thread 0 removes: JOB ID: 74, Start time = 205, End time = 230, Priority = 5, Remaining Time = 1
+Thread 0 removes: JOB ID: 77, restart time = 230, End time = 255, Priority = 5, Remaining Time = 37
+Thread 0 removes: JOB ID: 74, restart time = 255, End time = 256, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 73, Start time = 256, End time = 266, Priority = 8, Remaining Time = 0
+Thread 0 removes: JOB ID: 71, Start time = 266, End time = 291, Priority = 9, Remaining Time = 59
+Thread 0 removes: JOB ID: 72, Start time = 291, End time = 313, Priority = 9, Remaining Time = 0
+Thread 0 removes: JOB ID: 75, Start time = 313, End time = 327, Priority = 9, Remaining Time = 0
+Producing: JOB Id = 79, Burst Time = 41, Remaining Time = 41, Priority = 5 (Jobs Produced = 80, Jobs in buffer = 1)
+Producing: JOB Id = 80, Burst Time = 66, Remaining Time = 66, Priority = 8 (Jobs Produced = 81, Jobs in buffer = 2)
+Producing: JOB Id = 81, Burst Time = 9, Remaining Time = 9, Priority = 8 (Jobs Produced = 82, Jobs in buffer = 3)
+Producing: JOB Id = 82, Burst Time = 56, Remaining Time = 56, Priority = 0 (Jobs Produced = 83, Jobs in buffer = 4)
+Producing: JOB Id = 83, Burst Time = 92, Remaining Time = 92, Priority = 0 (Jobs Produced = 84, Jobs in buffer = 5)
+Producing: JOB Id = 84, Burst Time = 45, Remaining Time = 45, Priority = 4 (Jobs Produced = 85, Jobs in buffer = 6)
+Producing: JOB Id = 85, Burst Time = 61, Remaining Time = 61, Priority = 4 (Jobs Produced = 86, Jobs in buffer = 7)
+Producing: JOB Id = 86, Burst Time = 60, Remaining Time = 60, Priority = 6 (Jobs Produced = 87, Jobs in buffer = 8)
+Producing: JOB Id = 87, Burst Time = 7, Remaining Time = 7, Priority = 1 (Jobs Produced = 88, Jobs in buffer = 9)
+Producing: JOB Id = 88, Burst Time = 36, Remaining Time = 36, Priority = 5 (Jobs Produced = 89, Jobs in buffer = 10)
+Thread 0 removes: JOB ID: 82, Start time = 0, End time = 25, Priority = 0, Remaining Time = 31
+Thread 0 removes: JOB ID: 83, Start time = 25, End time = 50, Priority = 0, Remaining Time = 67
+Thread 0 removes: JOB ID: 82, restart time = 50, End time = 75, Priority = 0, Remaining Time = 6
+Thread 0 removes: JOB ID: 83, restart time = 75, End time = 100, Priority = 0, Remaining Time = 42
+Thread 0 removes: JOB ID: 82, restart time = 100, End time = 106, Priority = 0, Remaining Time = 0
+Thread 0 removes: JOB ID: 83, restart time = 106, End time = 131, Priority = 0, Remaining Time = 17
+Thread 0 removes: JOB ID: 83, restart time = 131, End time = 148, Priority = 0, Remaining Time = 0
+Thread 0 removes: JOB ID: 87, Start time = 148, End time = 155, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 85, Start time = 155, End time = 180, Priority = 4, Remaining Time = 36
+Thread 0 removes: JOB ID: 84, Start time = 180, End time = 205, Priority = 4, Remaining Time = 20
+Thread 0 removes: JOB ID: 85, restart time = 205, End time = 230, Priority = 4, Remaining Time = 11
+Thread 0 removes: JOB ID: 84, restart time = 230, End time = 250, Priority = 4, Remaining Time = 0
+Thread 0 removes: JOB ID: 79, Start time = 250, End time = 275, Priority = 5, Remaining Time = 16
+Thread 0 removes: JOB ID: 88, Start time = 275, End time = 300, Priority = 5, Remaining Time = 11
+Thread 0 removes: JOB ID: 79, restart time = 300, End time = 316, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 88, restart time = 316, End time = 327, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 86, Start time = 327, End time = 387, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 81, Start time = 387, End time = 396, Priority = 8, Remaining Time = 0
+Thread 0 removes: JOB ID: 80, Start time = 396, End time = 421, Priority = 8, Remaining Time = 41
+Thread 0 removes: JOB ID: 80, restart time = 421, End time = 446, Priority = 8, Remaining Time = 16
+Thread 0 removes: JOB ID: 80, restart time = 446, End time = 462, Priority = 8, Remaining Time = 0
+Producing: JOB Id = 89, Burst Time = 10, Remaining Time = 10, Priority = 6 (Jobs Produced = 90, Jobs in buffer = 3)
+Producing: JOB Id = 90, Burst Time = 41, Remaining Time = 41, Priority = 1 (Jobs Produced = 91, Jobs in buffer = 4)
+Producing: JOB Id = 91, Burst Time = 90, Remaining Time = 90, Priority = 8 (Jobs Produced = 92, Jobs in buffer = 5)
+Producing: JOB Id = 92, Burst Time = 15, Remaining Time = 15, Priority = 7 (Jobs Produced = 93, Jobs in buffer = 6)
+Producing: JOB Id = 93, Burst Time = 31, Remaining Time = 31, Priority = 1 (Jobs Produced = 94, Jobs in buffer = 7)
+Thread 0 removes: JOB ID: 93, Start time = 0, End time = 25, Priority = 1, Remaining Time = 6
+Thread 0 removes: JOB ID: 90, Start time = 25, End time = 50, Priority = 1, Remaining Time = 16
+Thread 0 removes: JOB ID: 93, restart time = 50, End time = 56, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 90, restart time = 56, End time = 72, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 89, Start time = 72, End time = 82, Priority = 6, Remaining Time = 0
+Thread 0 removes: JOB ID: 92, Start time = 82, End time = 97, Priority = 7, Remaining Time = 0
+Thread 0 removes: JOB ID: 91, Start time = 97, End time = 187, Priority = 8, Remaining Time = 0
+Producing: JOB Id = 94, Burst Time = 54, Remaining Time = 54, Priority = 5 (Jobs Produced = 95, Jobs in buffer = 1)
+Producing: JOB Id = 95, Burst Time = 45, Remaining Time = 45, Priority = 7 (Jobs Produced = 96, Jobs in buffer = 2)
+Producing: JOB Id = 96, Burst Time = 31, Remaining Time = 31, Priority = 3 (Jobs Produced = 97, Jobs in buffer = 3)
+Producing: JOB Id = 97, Burst Time = 60, Remaining Time = 60, Priority = 8 (Jobs Produced = 98, Jobs in buffer = 4)
+Producing: JOB Id = 98, Burst Time = 49, Remaining Time = 49, Priority = 1 (Jobs Produced = 99, Jobs in buffer = 5)
+Producing: JOB Id = 99, Burst Time = 16, Remaining Time = 16, Priority = 9 (Jobs Produced = 100, Jobs in buffer = 6)
+Thread 0 removes: JOB ID: 98, Start time = 0, End time = 49, Priority = 1, Remaining Time = 0
+Thread 0 removes: JOB ID: 96, Start time = 49, End time = 80, Priority = 3, Remaining Time = 0
+Thread 0 removes: JOB ID: 94, Start time = 80, End time = 134, Priority = 5, Remaining Time = 0
+Thread 0 removes: JOB ID: 95, Start time = 134, End time = 179, Priority = 7, Remaining Time = 0
+Thread 0 removes: JOB ID: 97, Start time = 179, End time = 239, Priority = 8, Remaining Time = 0
+Thread 0 removes: JOB ID: 99, Start time = 239, End time = 255, Priority = 9, Remaining Time = 0
+sSync = 1, sDelay = 0
+
